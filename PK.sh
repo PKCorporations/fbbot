@@ -50,7 +50,6 @@ then
 clear
 toilet -f lean "TOKPED"
 php tokped.php
-sh PK.sh
 fi
 
 if [ $ezz = 05 ] || [ $ezz = 5 ]
