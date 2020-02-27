@@ -1,2 +1,0 @@
-# PKAplikasi
-Saya Hebat
